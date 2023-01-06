@@ -10,4 +10,5 @@ float avg(x,y,z){
     sum = x+y+z;
     avg = sum/3;
     return;
+    
 }
