@@ -9,6 +9,7 @@ float avg(x,y,z){
     int sum,
     sum = x+y+z;
     avg = sum/3;
+    avg = sum/3;
     return;
     
 }
